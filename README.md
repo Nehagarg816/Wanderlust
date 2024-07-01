@@ -3,7 +3,7 @@
 <p>This is a website where you can navigate and find your best-suited destinations. Whether you want to spend your holidays with family or want to have a great fun adventure with your friends, it is the one-stop destination for you to get the best place with affordable journeys.</p>
 <h3>Come, Visit the Site!&#127881;</h3>
 
-<h2>Tech Stacks</h2>
+<h2>Tech Stack</h2>
 <h4>Front-end</h4>
 <ul>
   <li>CSS</li>
