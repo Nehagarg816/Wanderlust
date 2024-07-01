@@ -5,10 +5,9 @@
 
 <h2>Features</h2>
 <ul>
-  <li>You can sign-up or login here to start creating your listings if you want others to visit the place and have the same fun.
-  <br>
-    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/3d29020c-8121-40f1-9069-b38eb01c8075" alt="sign-up">
-    <br>
-    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/026bd019-b4e0-4cf1-a630-092d48dea990" alt="sign-up">
+  <li>You can sign-up or log-in here to start creating your listings if you want others to visit the place and have the same fun.
+  <br><br>
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/5014b2a6-b470-42b8-a81e-3055627bc585" alt="listing" width="154">
+
   </li>
 </ul>
