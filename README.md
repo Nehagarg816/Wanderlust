@@ -7,7 +7,7 @@
 <ul>
   <li>You can sign-up or log-in here to start creating your listings if you want others to visit the place and have the same fun.
   <br><br>
-    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/82b5e05d-9476-417e-a09f-c4decd3f6503" alt="listing" width="300">
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/82b5e05d-9476-417e-a09f-c4decd3f6503" alt="listing" width="400">
 
   </li>
 
