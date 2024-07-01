@@ -7,8 +7,8 @@
 <ul>
   <li>You can sign-up or login here to start creating your listings if you want others to visit the place and have the same fun.
   <br>
-    ![Screenshot 2024-07-01 191941](https://github.com/Nehagarg816/Wanderlust/assets/111566521/3d29020c-8121-40f1-9069-b38eb01c8075)
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/3d29020c-8121-40f1-9069-b38eb01c8075" alt="sign-up">
     <br>
-    ![Screenshot 2024-07-01 191941](https://github.com/Nehagarg816/Wanderlust/assets/111566521/026bd019-b4e0-4cf1-a630-092d48dea990)
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/026bd019-b4e0-4cf1-a630-092d48dea990" alt="sign-up">
   </li>
 </ul>
