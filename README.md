@@ -8,7 +8,18 @@
   <li>You can sign-up or log-in here to start creating your listings if you want others to visit the place and have the same fun.
   <br><br>
     <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/82b5e05d-9476-417e-a09f-c4decd3f6503" alt="listing" width="550">
-
+  </li>
+  <li>Here you can create your listing and upload pictures.
+    <br><br>
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/33403274-8b99-4c5b-b88f-c54ba5782b57" alt="listing" width="550">
+  </li>
+  <li>You can explore the broader view of listings of other users and select your destinations.
+    <br><br>
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/4423a1f5-58c8-43ef-83e3-fff1c46d07fa" alt="listing" width="550">
+  </li>
+  <li>You can leave ratings and reviews on listing of other users.
+  <br><br>
+    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/728ef434-2b52-41eb-b349-07f7ceae01ab" alt="listing" width="550">
   </li>
 
 </ul>
