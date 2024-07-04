@@ -12,6 +12,7 @@
 </ul>
 <h4>Back-end</h4>
 <ul>
+  <li>NodeJs</li>
   <li>Express</li>
   <li>MongoDB</li>
 </ul>
