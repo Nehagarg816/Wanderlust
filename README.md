@@ -5,12 +5,14 @@
 
 # Tech Stack<br>
 <details>
-  <summary>Front-end</summary>
+  <summary>Front-end</summary>  
   
-    > CSS <br>
-    > JavaScript <br>
-    > EJS 
+  > CSS <br>
+
+  > JavaScript <br>
     
+  > EJS 
+  
 </details>
 
 <h4>Back-end</h4>
