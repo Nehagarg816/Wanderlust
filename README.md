@@ -38,7 +38,7 @@
   
   > Cloudinary: Used to store the pictures uploaded by the users while creating their listings.
 
-  > MongoDB Atlas: Used to store the user information on MongoDB cloud that handles all the complexity of deploying, managing, and healing your deployments on the cloud service providers like AWS, google cloud or Microsoft azure.
+  > MongoDB Atlas: Used to store the user information on MongoDB cloud that handles all the complexity of deploying, managing, and healing your deployments on the cloud service providers like AWS, google-cloud or Microsoft azure.
 
 
 </details>
@@ -65,7 +65,6 @@
 
 <h3>Deployment</h3>
 <h5>Deployment is done using Render.</h5>
-<br
-><p>
+<p>
   Website Link: https://wanderlust-duwk.onrender.com/listings
 </p>
