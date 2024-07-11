@@ -13,19 +13,28 @@
     
   > EJS: Add JavaScript Embedded templates to website
   
+
+<summary>Backend</summary>  
+  
+  > NodeJS: Used for server-side programming and backend API services.
+
+  > MongoDB: Used for storing and managing the data.
+    
+  > Express: Used to add middlewares and routers for smooth flow of website.
+
+<summary>Framework</summary>  
+  
+  > Bootstrap: Add styling and in-built elements to the website
+
+
+<summary>Cloud Services</summary>  
+  
+  > Cloudinary: Used to store the pictures uploaded by the users while creating their listings.
+
+  > MongoDB Atlas: Used to store the user information on MongoDB cloud that handles all the complexity of deploying, managing, and healing your deployments on the cloud service providers like AWS, google cloud or Microsoft azure.
+
+
 </details>
-
-<h4>Back-end</h4>
-<ul>
-  <li>NodeJs</li>
-  <li>Express</li>
-  <li>MongoDB</li>
-</ul>
-<h4>Frameworks</h4>
-<ul>
-  <li>Bootstrap</li>
-</ul>
-
 <h2>Features</h2>
 <ul>
   <li>You can sign-up or log-in here to start creating your listings if you want others to visit the place and have the same fun.
@@ -48,7 +57,8 @@
 </ul>
 
 <h3>Deployment</h3>
-<p>Deployment is done using Render.
-<br>
+<h5>Deployment is done using Render.</h5>
+<br
+><p>
   Website Link: https://wanderlust-duwk.onrender.com/listings
 </p>
