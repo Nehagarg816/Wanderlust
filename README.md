@@ -7,11 +7,11 @@
 <details>
   <summary>Front-end</summary>  
   
-  > CSS <br>
+  > CSS: Add styling to the website
 
-  > JavaScript <br>
+  > JavaScript: Add logic and functioning to elements.
     
-  > EJS 
+  > EJS: Add JavaScript Embedded templates to website
   
 </details>
 
