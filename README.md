@@ -5,7 +5,7 @@
 
 # Tech Stack<br>
 <details>
-  <summary>Data Collection</summary>  <br>
+  <summary>Front-end</summary>  <br>
   
   > CSS: Add styling to the website.
 
