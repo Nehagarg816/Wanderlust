@@ -4,10 +4,12 @@
 <h3>Come, Visit the Site!&#127881;</h3>
 
 <h2>Tech Stack</h2>
-<summary>Front-end</summary>
+<details>
+  <summary>Front-end</summary>
   > CSS
   > JavaScript
   > EJS
+</details>
 
 <h4>Back-end</h4>
 <ul>
