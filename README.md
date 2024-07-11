@@ -6,10 +6,11 @@
 # Tech Stack<br>
 <details>
   <summary>Front-end</summary>
-  <br>
+  
     > CSS <br>
     > JavaScript <br>
     > EJS 
+    
 </details>
 
 <h4>Back-end</h4>
