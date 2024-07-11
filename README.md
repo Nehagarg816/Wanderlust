@@ -12,8 +12,10 @@
   > JavaScript: Add logic and functioning to elements.
     
   > EJS: Add JavaScript Embedded templates to website
-  
 
+</details>
+
+<details>
 <summary>Backend</summary>  
   
   > NodeJS: Used for server-side programming and backend API services.
@@ -22,11 +24,16 @@
     
   > Express: Used to add middlewares and routers for smooth flow of website.
 
+</details>
+
+<details>
 <summary>Framework</summary>  
   
   > Bootstrap: Add styling and in-built elements to the website
 
+</details>
 
+<details>
 <summary>Cloud Services</summary>  
   
   > Cloudinary: Used to store the pictures uploaded by the users while creating their listings.
