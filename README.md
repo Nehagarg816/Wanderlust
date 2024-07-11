@@ -5,13 +5,13 @@
 
 # Tech Stack<br>
 <details>
-  <summary>Front-end</summary>  <br>
+  <summary>Data Collection</summary>  <br>
   
-  > CSS: Add styling to the website
+  > CSS: Add styling to the website.
 
   > JavaScript: Add logic and functioning to elements.
     
-  > EJS: Add JavaScript Embedded templates to website
+  > EJS: Add JavaScript Embedded templates to the website.
 
 </details>
 
@@ -38,13 +38,13 @@
   
   > Cloudinary: Used to store the pictures uploaded by the users while creating their listings.
 
-  > MongoDB Atlas: Used to store the user information on MongoDB cloud that handles all the complexity of deploying, managing, and healing your deployments on the cloud service providers like AWS, google-cloud or Microsoft azure.
+  > MongoDB Atlas: Used to store the user information on MongoDB cloud that handles all the complexity of deploying, managing, and healing your deployments on the cloud service providers like AWS, google-cloud or Microsoft Azure.
 
 
 </details>
 <h2>Features</h2>
 <ul>
-  <li>You can sign-up or log-in here to start creating your listings if you want others to visit the place and have the same fun.
+  <li>You can sign up or log in here to start creating your listings if you want others to visit the place and have the same fun.
   <br><br>
     <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/82b5e05d-9476-417e-a09f-c4decd3f6503" alt="listing" width="550">
   </li>
@@ -56,7 +56,7 @@
     <br><br>
     <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/4423a1f5-58c8-43ef-83e3-fff1c46d07fa" alt="listing" width="550">
   </li>
-  <li>You can leave ratings and reviews on listing of other users.
+  <li>You can leave ratings and reviews on the listing of other users.
   <br><br>
     <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/728ef434-2b52-41eb-b349-07f7ceae01ab" alt="listing" width="550">
   </li>
