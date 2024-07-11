@@ -5,7 +5,7 @@
 
 # Tech Stack<br>
 <details>
-  <summary>Front-end</summary>  
+  <summary>Front-end</summary>  <br>
   
   > CSS: Add styling to the website
 
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary>Backend</summary>  
+<summary>Backend</summary>  <br>
   
   > NodeJS: Used for server-side programming and backend API services.
 
@@ -27,14 +27,14 @@
 </details>
 
 <details>
-<summary>Framework</summary>  
+<summary>Framework</summary>  <br>
   
   > Bootstrap: Add styling and in-built elements to the website
 
 </details>
 
 <details>
-<summary>Cloud Services</summary>  
+<summary>Cloud Services</summary>  <br>
   
   > Cloudinary: Used to store the pictures uploaded by the users while creating their listings.
 
