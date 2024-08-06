@@ -58,7 +58,7 @@
   </li>
   <li>You can leave ratings and reviews on the listing of other users.
   <br><br>
-    <img src="https://github.com/Nehagarg816/Wanderlust/assets/111566521/728ef434-2b52-41eb-b349-07f7ceae01ab" alt="listing" width="550">
+    <img src="https://github.com/user-attachments/assets/cb981489-136c-4310-85ef-1c1bdd17b08b" alt="listing" width="550">
   </li>
 
 </ul>
